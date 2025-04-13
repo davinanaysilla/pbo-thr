@@ -1,5 +1,5 @@
 ## Class Diagram
-Gambar Class Diagram [di sini](./class diagram pbo.png)
+
 
 
 
